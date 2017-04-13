@@ -1,0 +1,23 @@
+{
+  "name": "nodeannotations-example",
+  "version": "0.1.0",
+  "description": "Simple Example of nodeannotations",
+  "main": "testParser.js",
+  "scripts": {
+    "start": "node testParser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupam-git/nodeannotations-example.git"
+  },
+  "author": "Anupam Basak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anupam-git/nodeannotations-example/issues"
+  },
+  "homepage": "https://github.com/anupam-git/nodeannotations-example#readme",
+  "dependencies": {
+    "nodeannotations": "^0.2.2"
+  }
+}
