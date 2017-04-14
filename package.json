@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/anupam-git/nodeannotations-example#readme",
   "dependencies": {
-    "nodeannotations": "^0.2.2"
+    "nodeannotations": "^1.0.0"
   }
 }
