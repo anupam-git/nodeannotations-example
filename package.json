@@ -1,6 +1,6 @@
 {
   "name": "nodeannotations-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Example of nodeannotations",
   "main": "testParser.js",
   "scripts": {
